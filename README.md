@@ -1,4 +1,4 @@
-# Food_vision_proje-t_1
+# Food_vision_project_1
 Food_vision_projeсt_1
 
 
